@@ -1,0 +1,3 @@
+praw
+groq
+python-dotenv
