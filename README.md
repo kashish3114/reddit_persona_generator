@@ -30,4 +30,4 @@ bash
 The persona will be saved inside `sample_output/`.
 
 ## 📄 Sample Output
-See: [`sample_output/user_persona_kojied.txt`](sample_output/user_persona_kojied.txt)
+See: sample_output/user_persona_kojied_20250715_2323.txt
